@@ -1,0 +1,309 @@
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Program number 3, name Diffuse, is a valid shader
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Program number 6, name Terrain, is a valid shader
+Shader 7 (Rim.vert) compile error: No errors.
+
+Shader 8 (Rim.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Program number 3, name Diffuse, is a valid shader
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Program number 6, name Terrain, is a valid shader
+Shader 7 (Rim.vert) compile error: No errors.
+
+Shader 8 (Rim.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Program number 9, name Rim, is a valid shader
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Program number 3, name Diffuse, is a valid shader
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Program number 6, name Terrain, is a valid shader
+Shader 7 (Rim.vert) compile error: No errors.
+
+Shader 8 (Rim.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Program number 9, name Rim, is a valid shader
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Program number 3, name Diffuse, is a valid shader
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Program number 6, name Terrain, is a valid shader
+Shader 7 (Rim.vert) compile error: No errors.
+
+Shader 8 (Rim.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Program number 9, name Rim, is a valid shader
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Program number 3, name Diffuse, is a valid shader
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Program number 6, name Terrain, is a valid shader
+Shader 7 (Rim.vert) compile error: No errors.
+
+Shader 8 (Rim.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Program number 9, name Rim, is a valid shader
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Program number 3, name Diffuse, is a valid shader
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Program number 6, name Terrain, is a valid shader
+Shader 7 (Rim.vert) compile error: No errors.
+
+Shader 8 (Rim.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Program number 3, name Diffuse, is a valid shader
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Program number 6, name Terrain, is a valid shader
+Shader 7 (Rim.vert) compile error: No errors.
+
+Shader 8 (Rim.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Program number 3, name Diffuse, is a valid shader
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Program number 6, name Terrain, is a valid shader
+Shader 7 (Rim.vert) compile error: No errors.
+
+Shader 8 (Rim.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Program number 3, name Diffuse, is a valid shader
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Program number 6, name Terrain, is a valid shader
+Shader 7 (Rim.vert) compile error: No errors.
+
+Shader 8 (Rim.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Program number 3, name Diffuse, is a valid shader
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Program number 6, name Terrain, is a valid shader
+Shader 7 (Rim.vert) compile error: No errors.
+
+Shader 8 (Rim.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Program number 3, name Diffuse, is a valid shader
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Program number 6, name Terrain, is a valid shader
+Shader 7 (Rim.vert) compile error: No errors.
+
+Shader 8 (Rim.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Program number 3, name Diffuse, is a valid shader
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Program number 6, name Terrain, is a valid shader
+Shader 7 (Rim.vert) compile error: No errors.
+
+Shader 8 (Rim.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Program number 3, name Diffuse, is a valid shader
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Program number 6, name Terrain, is a valid shader
+Shader 7 (Rim.vert) compile error: No errors.
+
+Shader 8 (Rim.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Program number 3, name Diffuse, is a valid shader
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Program number 6, name Terrain, is a valid shader
+Shader 7 (Rim.vert) compile error: No errors.
+
+Shader 8 (Rim.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Program number 9, name Rim, is a valid shader
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Program number 3, name Diffuse, is a valid shader
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Program number 6, name Terrain, is a valid shader
+Shader 7 (Rim.vert) compile error: No errors.
+
+Shader 8 (Rim.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Program number 9, name Rim, is a valid shader
+Program number 3, name Diffuse, is a valid shader
+Program number 6, name Terrain, is a valid shader
+Program number 9, name Rim, is a valid shader

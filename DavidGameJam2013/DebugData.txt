@@ -1,0 +1,8 @@
+Initialized Missle's RenderMesh
+Initialized Missile's texture
+Initialized position
+Why am I still checking here
+Initialized Missle's RenderMesh
+Initialized Missile's texture
+Initialized position
+Why am I still checking here

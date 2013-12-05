@@ -1,0 +1,681 @@
+Set screen width and height to 1920, 1080
+Set screen width and height to 1920, 1080
+Initialized stuff
+The sound played?
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 87 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 87 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 90 pressed
+Registering a key press
+Key 88 pressed
+Registering a key press
+Key 67 pressed
+Registering a key press
+Key 13 pressed
+Registering a key press
+Key 76 pressed
+Registering a key press
+Key 73 pressed
+Registering a key press
+Key 74 pressed
+Registering a key press
+Key 73 pressed
+Registering a key press
+Key 86 pressed
+Registering a key press
+Key 66 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 78 pressed
+Registering a key press
+Key 78 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 66 pressed
+Registering a key press
+Key 86 pressed
+Registering a key press
+Key 78 pressed
+Registering a key press
+Key 78 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 78 pressed
+Registering a key press
+Key 75 pressed
+Registering a key press
+Key 76 pressed
+Registering a key press
+Key 90 pressed
+Registering a key press
+Key 81 pressed
+Registering a key press
+Key 69 pressed
+Registering a key press
+Key 90 pressed
+Registering a key press
+Key 84 pressed
+Registering a key press
+Key 89 pressed
+Registering a key press
+Key 69 pressed
+Registering a key press
+Key 75 pressed
+Registering a key press
+Key 69 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 78 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 68 pressed
+Registering a key press
+Key 65 pressed
+Registering a key press
+Key 93 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 40 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 40 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 39 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 38 pressed
+Registering a key press
+Key 37 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press
+Key 77 pressed
+Registering a key press

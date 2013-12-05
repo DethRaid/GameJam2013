@@ -1,0 +1,60 @@
+﻿Build started 9/15/2013 2:49:27 PM.
+     1>Project "C:\Users\DAVID\Documents\RIT\CSH\GameJam2013\JotunEngine\JotunEngine.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W2 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt JotunEngine.cpp
+         JotunEngine.cpp
+     1>JotunEngine.cpp(98): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>JotunEngine.cpp(101): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>JotunEngine.cpp(114): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>JotunEngine.cpp(175): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>JotunEngine.cpp(746): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>JotunEngine.cpp(747): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DAVID\Documents\RIT\CSH\GameJam2013\x64\Debug\JotunEngine.exe" /INCREMENTAL /NOLOGO winmm.lib glew32.lib opengl32.lib assimp.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\DAVID\Documents\RIT\CSH\GameJam2013\x64\Debug\JotunEngine.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DAVID\Documents\RIT\CSH\GameJam2013\x64\Debug\JotunEngine.lib" /MACHINE:X64 x64\Debug\JotunEngine.res
+         x64\Debug\BigMissile.obj
+         x64\Debug\Bounds.obj
+         x64\Debug\Camera.obj
+         x64\Debug\Color.obj
+         x64\Debug\ConsoleLight.obj
+         x64\Debug\Cursor.obj
+         x64\Debug\Explosion.obj
+         x64\Debug\Input.obj
+         x64\Debug\JotunEngine.obj
+         x64\Debug\Light.obj
+         x64\Debug\Material.obj
+         x64\Debug\MaterialList.obj
+         x64\Debug\Mesh.obj
+         x64\Debug\Meshes.obj
+         x64\Debug\Missile.obj
+         x64\Debug\MissileMarker.obj
+         x64\Debug\Nikky.obj
+         x64\Debug\NikkySpawner.obj
+         x64\Debug\NuclearMissile.obj
+         x64\Debug\ParticleSystem.obj
+         x64\Debug\Physics.obj
+         x64\Debug\RenderMesh.obj
+         x64\Debug\RenderObject.obj
+         x64\Debug\Screen.obj
+         x64\Debug\Shader.obj
+         x64\Debug\Shaders.obj
+         x64\Debug\SmokeParticle.obj
+         x64\Debug\Sound.obj
+         x64\Debug\SoundList.obj
+         "x64\Debug\stb_image-1.16.obj"
+         x64\Debug\stdafx.obj
+         x64\Debug\TemporalWarpField.obj
+         x64\Debug\Terrain.obj
+         x64\Debug\Texture.obj
+         x64\Debug\TextureList.obj
+         x64\Debug\ThrowyMissile.obj
+         x64\Debug\Time.obj
+         x64\Debug\TimeyMissile.obj
+         x64\Debug\Transform.obj
+         x64\Debug\Utility.obj
+         x64\Debug\Vector3.obj
+         JotunEngine.vcxproj -> C:\Users\DAVID\Documents\RIT\CSH\GameJam2013\x64\Debug\JotunEngine.exe
+     1>Done Building Project "C:\Users\DAVID\Documents\RIT\CSH\GameJam2013\JotunEngine\JotunEngine.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.03

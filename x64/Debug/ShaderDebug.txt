@@ -1,0 +1,13 @@
+Shader 1 (Terrain.vert) compile error: No errors.
+
+Shader 2 (Terrain.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Program number 3, name Terrain, is a valid shader
+Shader 4 (Diffuse.vert) compile error: No errors.
+
+Shader 5 (Diffuse.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+

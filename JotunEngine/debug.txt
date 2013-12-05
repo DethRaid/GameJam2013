@@ -1,0 +1,5 @@
+Set screen width and height to 1366, 768
+Set screen width and height to 1366, 768
+Initialized stuff
+The sound played?
+Registering a key press

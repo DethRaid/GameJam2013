@@ -1,0 +1,70 @@
+﻿Build started 9/15/2013 3:54:40 PM.
+     1>Project "C:\Users\DAVID\Documents\RIT\CSH\GameJam2013\JotunEngine\JotunEngine.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /Gd /TP /errorReport:prompt JotunEngine.cpp
+         JotunEngine.cpp
+     1>JotunEngine.cpp(98): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>JotunEngine.cpp(101): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>JotunEngine.cpp(112): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>JotunEngine.cpp(114): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>JotunEngine.cpp(161): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>JotunEngine.cpp(175): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>JotunEngine.cpp(175): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>JotunEngine.cpp(238): warning C4101: 'j' : unreferenced local variable
+     1>JotunEngine.cpp(721): warning C4244: 'argument' : conversion from 'WPARAM' to 'int', possible loss of data
+     1>JotunEngine.cpp(725): warning C4244: 'argument' : conversion from 'WPARAM' to 'int', possible loss of data
+     1>JotunEngine.cpp(746): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>JotunEngine.cpp(747): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>JotunEngine.cpp(693): warning C4101: 'ps' : unreferenced local variable
+     1>JotunEngine.cpp(694): warning C4101: 'hdc' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DAVID\Documents\RIT\CSH\GameJam2013\x64\Release\JotunEngine.exe" /INCREMENTAL:NO /NOLOGO winmm.lib glew32.lib assimp.lib opengl32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\DAVID\Documents\RIT\CSH\GameJam2013\x64\Release\JotunEngine.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DAVID\Documents\RIT\CSH\GameJam2013\x64\Release\JotunEngine.lib" /MACHINE:X64 x64\Release\JotunEngine.res
+         x64\Release\BigMissile.obj
+         x64\Release\Bounds.obj
+         x64\Release\Camera.obj
+         x64\Release\Color.obj
+         x64\Release\ConsoleLight.obj
+         x64\Release\Cursor.obj
+         x64\Release\Explosion.obj
+         x64\Release\Input.obj
+         x64\Release\JotunEngine.obj
+         x64\Release\Light.obj
+         x64\Release\Material.obj
+         x64\Release\MaterialList.obj
+         x64\Release\Mesh.obj
+         x64\Release\Meshes.obj
+         x64\Release\Missile.obj
+         x64\Release\MissileMarker.obj
+         x64\Release\Nikky.obj
+         x64\Release\NikkySpawner.obj
+         x64\Release\NuclearMissile.obj
+         x64\Release\ParticleSystem.obj
+         x64\Release\Physics.obj
+         x64\Release\RenderMesh.obj
+         x64\Release\RenderObject.obj
+         x64\Release\Screen.obj
+         x64\Release\Shader.obj
+         x64\Release\Shaders.obj
+         x64\Release\SmokeParticle.obj
+         x64\Release\Sound.obj
+         x64\Release\SoundList.obj
+         "x64\Release\stb_image-1.16.obj"
+         x64\Release\stdafx.obj
+         x64\Release\TemporalWarpField.obj
+         x64\Release\Terrain.obj
+         x64\Release\Texture.obj
+         x64\Release\TextureList.obj
+         x64\Release\ThrowyMissile.obj
+         x64\Release\Time.obj
+         x64\Release\TimeyMissile.obj
+         x64\Release\Transform.obj
+         x64\Release\Utility.obj
+         x64\Release\Vector3.obj
+         Generating code
+         Finished generating code
+         JotunEngine.vcxproj -> C:\Users\DAVID\Documents\RIT\CSH\GameJam2013\x64\Release\JotunEngine.exe
+     1>Done Building Project "C:\Users\DAVID\Documents\RIT\CSH\GameJam2013\JotunEngine\JotunEngine.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.75
